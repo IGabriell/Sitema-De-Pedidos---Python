@@ -22,3 +22,4 @@ Sistema de pedidos desenvolvido em Python para simular o gerenciamento de uma la
 - JSON
 
 ## Como executar
+Entre na pasta para acessar
