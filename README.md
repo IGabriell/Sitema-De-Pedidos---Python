@@ -22,4 +22,12 @@ Sistema de pedidos desenvolvido em Python para simular o gerenciamento de uma la
 - JSON
 
 ## Como executar
-Entre na pasta para acessar
+
+1. Clone este repositório.
+2. Entre na pasta do projeto.
+3. Execute o programa com Python:
+
+```bash
+python main.py
+```
+
